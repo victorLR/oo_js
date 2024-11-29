@@ -28,7 +28,7 @@ function Moto(marca, modelo, cilindradas) {
 const carro1 = new Carro("Toyota", "Corolla", 4);
 const carro2 = new Carro("Volkswagen", "Golf", 2);
 const carro3 = new Carro("Volkswagen", "Gol", 2);
-const moto = new Moto("YAMAHA","Lander",250)
+const moto = new Moto("YAMAHA","Lander",250);
 
 console.log(carro1.detalhes());
 console.log(carro2.detalhes());
